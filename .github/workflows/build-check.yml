@@ -1,5 +1,5 @@
 ---
-name: Docker Build Check
+name: Docker Preliminary Build Confidence Check
 
 on:
   pull_request:
